@@ -23,7 +23,7 @@
 # Backend/Database/Diagram
 - Backend PHP: Các file php được lưu ở thư mục backend trong project
 - Database phpMyAdmin: Database được lưu ở thư mục database trong project
-- Diagram: Các Diagram for database được lưu ở thư mục database trong project
+- Diagram: Diagram của database được lưu ở thư mục database trong project
 
 
 
